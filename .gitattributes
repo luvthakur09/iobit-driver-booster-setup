@@ -1,0 +1,10 @@
+public/index.html linguist-vendored
+*.ts linguist-detectable
+
+*.html linguist-vendored
+
+src/**/*.tsx linguist-detectable
+*.png binary
+*.ico binary
+*.sh text eol=lf
+# eof 16457d89
